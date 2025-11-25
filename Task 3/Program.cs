@@ -5,7 +5,7 @@
         // -------- Printer Class Testing --------
         Printer printer = new Printer();
         printer.Print("Hello Students");
-        printer.Print(25);
+        printer.Print(20);
         printer.Print("Repeat This", 3);
 
         Console.WriteLine("\n--- Teacher Classes ---");
